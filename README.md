@@ -1,4 +1,6 @@
-# Pattern System in Assembly Language
+# Pattern System 
+
+A pattern system built on low level language (Assembly Language)
 
 ## Features 
  * Number Pattern
