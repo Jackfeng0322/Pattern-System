@@ -1,12 +1,12 @@
-# Pattern System 
+# Shape Generation System for Event Management 
 
-A pattern system built on low level language (Assembly Language)
+A shape pattern system built on low level language (Assembly Language)
 
-## Features 
- * Number Pattern
- * Design Pattern
- * Box Pattern
- * Nested Loop Pattern
+## Features (Shapes and its logical design)
+ * Number Patterns
+ * Design Patterns
+ * Box Patterns
+ * Nested Loop Patterns
 
 ## Screenshots 
 
